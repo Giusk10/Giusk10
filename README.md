@@ -1,7 +1,9 @@
-# Eng. Giuseppe Riccio
+## Eng. Giuseppe Riccio
 
 ### 🎓 Computer Engineer | 💻 Full Stack Developer
 **<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwBvLRH5qQkBbhDHO5z8G43rNxRcklgkYmCANpRcmuxw&s" height="20" style="vertical-align:middle"> University of Sannio | Benevento, Italy**
+
+## 🛠️ Skills
 
 ### 🌐 Frontend & Web Development
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
