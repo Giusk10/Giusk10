@@ -3,6 +3,8 @@
 ### 🎓 Computer Engineer | 💻 Full Stack Developer
 **<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwBvLRH5qQkBbhDHO5z8G43rNxRcklgkYmCANpRcmuxw&s" height="20" style="vertical-align:middle"> University of Sannio | Benevento, Italy**
 
+[![Mail Badge](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:gius03@proton.me)
+
 ## 🛠️ Skills
 
 ### 🌐 Frontend & Web Development
